@@ -39,7 +39,7 @@ Passionate about building clean, maintainable code and creating exceptional user
 |------------|-----------|----------------|
 | 🌐 **Portfolio** | <a href="https://brijkishor.com">brijkishor.com</a> | Personal website showcasing projects |
 | 💼 **LinkedIn** | <a href="https://linkedin.com/in/brijkishor">LinkedIn - brijkishor</a> | Professional profile & experience |
-| 🐙 **GitHub** | <a href="https://github.com/kixsor">GitHub - kixsor</a> | Code repositories & open-source work |
+| 🐙 **GitHub** | <a href="https://github.com/brijkisor">GitHub - brijkisor</a> | Code repositories & open-source work |
 | 📧 **Email** | <a href="mailto:feedback.brijkishor@gmail.com">feedback.brijkishor@gmail.com</a> | Direct contact for opportunities |
 
 </p>
@@ -51,7 +51,7 @@ Passionate about building clean, maintainable code and creating exceptional user
   <a href="https://linkedin.com/in/brijkishor">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/kixsor">
+  <a href="https://github.com/brijkisor">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:feedback.brijkishor@gmail.com">
