@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full-Stack Engineer | Building Scalable Web Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;System+Design+Focused;Performance+Driven+Developer;Currently+Exploring+Cybersecurity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;System+Design+Focused;Performance+Driven+Developer />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=650&lines=Cybersecurity;Secure+Coding+Practices;Scalable+System+Architecture;Performance+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=650&lines=Secure+Coding+Practices;Scalable+System+Architecture;Performance+Optimization" />
 </p>
 
 <p align="center">
@@ -93,9 +93,6 @@ Passionate about building clean, maintainable code and creating exceptional user
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0078D4?style=flat&logo=agile&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
-
-### **Currently Exploring**
-🔒 **Cybersecurity** | Security best practices, encryption, and secure architecture patterns
 
 ---
 
